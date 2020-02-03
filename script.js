@@ -13,3 +13,5 @@ form.addEventListener("submit", function (event) {
     }
     else {
       box.parentElement.classList.add("input-valid")
+    }
+  }
