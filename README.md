@@ -1,4 +1,4 @@
-# Validating a Form
+<!-- # Validating a Form
 
 ## Directions
 
@@ -12,7 +12,7 @@ Do this project in steps. Each step adds another layer of difficulty. Make sure 
 
 ### Step 1
 
-Each field is required. If there is no user input in that field, mark it as invalid.
+Each field is required. If there is no user input in that field, mark it as invalid. -->
 
 ### Step 2
 
