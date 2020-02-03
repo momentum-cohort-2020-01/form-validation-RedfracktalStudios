@@ -1,4 +1,4 @@
-let boxes = document.querySelectorAll('.box')
+let boxes = document.querySelectorAll('input')
 
 let form = document.querySelector("#parking-form")
 let errorMessages = document.querySelectorAll("label")
@@ -15,3 +15,4 @@ form.addEventListener("submit", function (event) {
       box.parentElement.classList.add("input-valid")
     }
   }
+})
